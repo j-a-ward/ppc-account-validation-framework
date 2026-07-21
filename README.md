@@ -93,7 +93,7 @@ Drawing from a background in Quality Assurance (ISTQB® Certified), I apply syst
 - Re-engage high intent visitors.
 - Improve overall conversion efficiency.
 
-## 14. Ad Extensions
+## 14. Ad Assets
 - Implement sitelinks, callouts, and structured snippets.
 - Maximize ad real estate and CTR.
 
