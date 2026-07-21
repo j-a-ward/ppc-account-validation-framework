@@ -80,6 +80,7 @@ Drawing from a background in Quality Assurance (ISTQB® Certified), I apply syst
   - Search Impression Share
   - IS Lost (Budget)
   - IS Lost (Rank)
+  - Top Impression Share
   - Absolute Top Impression Share
 - Use visibility data to guide bid and budget decisions.
 
